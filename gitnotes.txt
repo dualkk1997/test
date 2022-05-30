@@ -12,3 +12,4 @@ GitHub token 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
 
 git push 練習
 git fetch 練習
+git pull 練習
