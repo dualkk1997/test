@@ -1,4 +1,4 @@
-git名詞
+it名詞
 提交 commit
 狀態差異記錄 revision
 工作目錄（Working Tree）是保存您目前正在處理檔案的目錄，Git 相關的操作都會在這個目錄下完成。
@@ -10,4 +10,4 @@ Push(推送)送到數據庫
 欲同步遠端數據庫以更新本地端數據庫，請使用Pull(拉取)。執行pull之後，會從遠端數據庫下載最新的修改歷史，將其同步到自己的本地端數據庫。
 GitHub token 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
 
-git pull 練習
+git push 練習
